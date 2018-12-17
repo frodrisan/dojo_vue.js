@@ -1,5 +1,9 @@
 # vue-skills
 
+## Learning about Vue.js
+
+### Course : https://www.udemy.com/vue-2-crash-course
+
 ## Project setup
 ```
 npm install
